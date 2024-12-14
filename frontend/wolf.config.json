@@ -1,0 +1,5 @@
+{
+    "name": "HAMAX Space Dynamics",
+    "pages_dir": "src/pages",
+    "components_dir": "src/components"
+}
